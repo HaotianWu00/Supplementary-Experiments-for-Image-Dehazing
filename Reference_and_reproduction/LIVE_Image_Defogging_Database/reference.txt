@@ -1,0 +1,3 @@
+LK Choi、J. You 和 AC Bovik，“LIVE Image Defogging Database”，online：
+http ://live.ece.utexas.edu/research/fog/fade_defade.html
+，2015 。
